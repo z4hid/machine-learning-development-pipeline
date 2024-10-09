@@ -1,0 +1,48 @@
+# Default
+hyperopt
+ipywidgets
+matplotlib
+mlflow
+nltk
+numpy
+numpyencoder
+pandas
+python-dotenv
+ray
+scikit-learn
+snorkel
+SQLAlchemy
+torch
+transformers
+
+# Notebook
+cleanlab
+jupyterlab
+lime
+seaborn
+wordcloud
+
+# Documentation
+mkdocs
+mkdocstrings
+mkdocstrings[python]
+
+# Styling
+black
+flake8
+Flake8-pyproject
+isort
+pyupgrade
+
+# Testing
+great-expectations
+pytest
+pytest-cov
+
+# Development
+fastapi
+pre-commit
+typer
+
+# Deployment
+anyscale
